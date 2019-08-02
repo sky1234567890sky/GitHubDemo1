@@ -12,6 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toast.makeText(this, "我是苏克阳", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "我是苏克阳", Toast.LENGTH_SHORT).show();
+        //我是李武辉
+
+        //LWH   LWH
         //第二次提交
         ///依依不舍1
     }
